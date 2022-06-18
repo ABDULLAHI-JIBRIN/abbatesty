@@ -1,1 +1,1 @@
-web:Procfile New.wsgi
+web: gunicorn New.wsgi
